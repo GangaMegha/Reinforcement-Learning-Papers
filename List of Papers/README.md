@@ -10,3 +10,12 @@ This file lists some of the papers in the following domains which were discussed
 6. Options : http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf
 7. Option-Critic Architecture : https://arxiv.org/pdf/1609.05140.pdf
 8. SNN for HRL : https://arxiv.org/pdf/1704.03012.pdf
+
+## Model Based RL
+1. Backpropagated Adaptive Critic : https://arxiv.org/pdf/1512.02693.pdf
+2. Bayesian Q-Learning : http://robotics.stanford.edu/~nir/Papers/DFR1.pdf
+3. BOSS : https://arxiv.org/pdf/1205.2664.pdf
+4. PSRL : https://arxiv.org/pdf/1306.0940.pdf
+5. PSRL vs OFU : https://arxiv.org/pdf/1607.00215.pdf
+6. R-MAX : http://www.jmlr.org/papers/volume3/brafman02a/brafman02a.pdf
+7. UNREAL : https://arxiv.org/pdf/1611.05397.pdf
