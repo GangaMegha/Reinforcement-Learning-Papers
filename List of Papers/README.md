@@ -1,6 +1,15 @@
 # Reinforcement-Learning-Papers
 This file lists some of the papers in the following domains which were discussed during the Topics in Reinforcement Learning course :
 
+## Multi-tasking
+1. PathNet : https://arxiv.org/pdf/1701.08734.pdf
+2. Overcoming Catastrophic Forgetting : https://arxiv.org/pdf/1612.00796.pdf
+3. Actor-Mimic : https://arxiv.org/abs/1511.06342
+4. Distral : https://arxiv.org/pdf/1707.04175.pdf
+5. DiGrad : https://arxiv.org/pdf/1802.10463.pdf
+6. Joint Many-Task Model (NLP) : https://arxiv.org/pdf/1611.01587.pdf
+7. A2T : https://arxiv.org/pdf/1510.02879.pdf
+
 ## Hierarchical RL
 1. Feudal Network : https://arxiv.org/pdf/1703.01161.pdf
 2. H-DQN : https://arxiv.org/pdf/1604.06057.pdf
