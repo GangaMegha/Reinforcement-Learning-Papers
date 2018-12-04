@@ -19,3 +19,12 @@ This file lists some of the papers in the following domains which were discussed
 5. PSRL vs OFU : https://arxiv.org/pdf/1607.00215.pdf
 6. R-MAX : http://www.jmlr.org/papers/volume3/brafman02a/brafman02a.pdf
 7. UNREAL : https://arxiv.org/pdf/1611.05397.pdf
+
+## Transfer Learning
+1. A2T : https://arxiv.org/pdf/1510.02879.pdf
+2. Actor-Mimic : https://arxiv.org/abs/1511.06342
+3. DARLA : https://arxiv.org/abs/1707.08475
+4. EPOpt : https://arxiv.org/pdf/1610.01283.pdf
+5. PathNet : https://arxiv.org/pdf/1701.08734.pdf
+6. Policy Distillation : https://arxiv.org/pdf/1511.06295.pdf
+7. Survey : https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/JMLR09-taylor.pdf
