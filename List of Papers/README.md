@@ -7,8 +7,9 @@ This file lists some of the papers in the following domains which were discussed
 3. Actor-Mimic : https://arxiv.org/abs/1511.06342
 4. Distral : https://arxiv.org/pdf/1707.04175.pdf
 5. DiGrad : https://arxiv.org/pdf/1802.10463.pdf
-6. Joint Many-Task Model (NLP) : https://arxiv.org/pdf/1611.01587.pdf
-7. A2T : https://arxiv.org/pdf/1510.02879.pdf
+6. Active Sampling : https://arxiv.org/pdf/1702.06053.pdf
+7. Joint Many-Task Model (NLP) : https://arxiv.org/pdf/1611.01587.pdf
+8. A2T : https://arxiv.org/pdf/1510.02879.pdf
 
 ## Hierarchical RL
 1. Feudal Network : https://arxiv.org/pdf/1703.01161.pdf
@@ -43,3 +44,10 @@ This file lists some of the papers in the following domains which were discussed
 2. Betweenness : https://papers.nips.cc/paper/3411-skill-characterization-based-on-betweenness.pdf
 3. Diverse Density : https://scholarworks.umass.edu/cgi/viewcontent.cgi?referer=https://www.google.co.in/&httpsredir=1&article=1017&context=cs_faculty_pubs
 4. Reward Shaping : https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/NgHaradaRussell-shaping-ICML1999.pdf
+
+## Memory-based Models
+1. FRMQN : https://arxiv.org/pdf/1605.09128.pdf
+2. Neural Map : https://arxiv.org/pdf/1702.08360.pdf
+3. Memory based control with RNN : https://arxiv.org/pdf/1512.04455.pdf
+4. Memory in Autonomous exploration : https://journals.sagepub.com/doi/full/10.1177/1729881418775849
+5. Episodic Memory : https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033625
