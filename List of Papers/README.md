@@ -28,3 +28,9 @@ This file lists some of the papers in the following domains which were discussed
 5. PathNet : https://arxiv.org/pdf/1701.08734.pdf
 6. Policy Distillation : https://arxiv.org/pdf/1511.06295.pdf
 7. Survey : https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/JMLR09-taylor.pdf
+
+## Option Discovery
+1. IMRL : http://www.cs.cornell.edu/~helou/IMRL.pdf
+2. Betweenness : https://papers.nips.cc/paper/3411-skill-characterization-based-on-betweenness.pdf
+3. Diverse Density : https://scholarworks.umass.edu/cgi/viewcontent.cgi?referer=https://www.google.co.in/&httpsredir=1&article=1017&context=cs_faculty_pubs
+4. Reward Shaping : https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/NgHaradaRussell-shaping-ICML1999.pdf
