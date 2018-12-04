@@ -1,2 +1,8 @@
 # Reinforcement-Learning-Papers
-This repository contains 1 page summaries of papers I have read in the domain of Reinforcement Learning along with a list of papers in different topics.
+This file lists some of the papers in the following domains which were discussed during the Topics in Reinforcement Learning course :
+
+## Hierarchical RL
+Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
